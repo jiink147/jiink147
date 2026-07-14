@@ -15,8 +15,8 @@
 <br/>
 
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-C15F3C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-B1ADA1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fachrurrozi-rosyadi/"><img src="https://img.shields.io/badge/LinkedIn-B1ADA1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:fachrurozir17@gmail.com"><img src="https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/jiink147"><img src="https://img.shields.io/badge/GitHub-B1ADA1?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -221,7 +221,6 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiink147&show_icons=true&hide_border=true&bg_color=F4F3EE&title_color=C15F3C&icon_color=C15F3C&text_color=B1ADA1&border_color=B1ADA1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jiink147&hide_border=true&background=F4F3EE&ring=C15F3C&fire=C15F3C&currStreakLabel=C15F3C&sideLabels=B1ADA1&currStreakNum=C15F3C&sideNums=B1ADA1&dates=B1ADA1&border=B1ADA1" />
 
 <br/>
 
@@ -264,18 +263,6 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jiink147/jiink147/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
@@ -306,8 +293,8 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-C15F3C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-B1ADA1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:fachrurozir17@gmail.com"><img src="https://img.shields.io/badge/Gmail-C15F3C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fachrurrozi-rosyadi/"><img src="https://img.shields.io/badge/LinkedIn-B1ADA1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/jiink147"><img src="https://img.shields.io/badge/GitHub-C15F3C?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-B1ADA1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
