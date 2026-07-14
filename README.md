@@ -4,12 +4,12 @@
 
 # `FACHRURROZI ROSYADI`
 
-<img src="https://img.shields.io/badge/-AI%20ENGINEER-C15F3C?style=flat-square&labelColor=1a1a1a" height="26"/> <img src="https://img.shields.io/badge/-DATA%20%26%20EVALUATION%20SPECIALIST-B1ADA1?style=flat-square&labelColor=1a1a1a" height="26"/>
+<img src="https://img.shields.io/badge/-AI%20QUALITY%20EVALUATOR-C15F3C?style=flat-square&labelColor=1a1a1a" height="26"/> <img src="https://img.shields.io/badge/-INDONESIAN%20LANGUAGE%20%26%20MULTIMODAL%20AI-B1ADA1?style=flat-square&labelColor=1a1a1a" height="26"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=C15F3C&center=true&vCenter=true&width=600&lines=Building+production-grade+RAG+systems;Evaluating+LLMs+across+EN+%2F+ID+markets;From+annotation+pipelines+to+agentic+backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=C15F3C&center=true&vCenter=true&width=650&lines=Reviewer-level+judgment+on+VLM+%2F+VQA+systems;Judging+AI+outputs+for+EN+%2F+ID+markets;Building+production-grade+RAG+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,9 +38,9 @@
 
 ## ⌗ About
 
-I'm an AI training-data and evaluation specialist transitioning into full-stack AI engineering. My work spans multilingual (EN/ID) model evaluation, multimodal annotation, RLHF-style ranking, and content/QA review across major AI training platforms — and over the past year I've been building toward **production AI systems**: retrieval-augmented generation pipelines, agentic backends, and applied LLM tooling.
+Indonesian AI Quality Evaluator with 2+ years of contract experience judging AI-generated and human-labeled content — text, image, video, and design — against structured quality bars for linguistic accuracy, factual correctness, and cultural appropriateness. Hold reviewer-level responsibility at **Alignerr** (AI Quality Reviewer) and **micro1** (dual Trainer/Reviewer capacity), evaluating peer and model output rather than only producing first-pass labels, with experience as an evaluation consultant at **iMerit Scholars** advising on quality frameworks and rating consistency.
 
-I approach engineering the way I approach evaluation work: rigorously, systematically, with a bias toward understanding *why* a system is built a certain way rather than copying a pattern blindly.
+Skilled at interpreting evolving guidelines, resolving edge cases and AutoQA disputes, and issuing structured feedback that measurably improves model and dataset reliability. In parallel, building toward full-stack AI engineering — applying the same rigor from evaluation work to designing and shipping production RAG systems.
 
 <br/>
 
@@ -49,10 +49,10 @@ I approach engineering the way I approach evaluation work: rigorously, systemati
 | | |
 |:---|:---|
 | 📍 **Based in** | Pekanbaru, Indonesia |
-| 🗣️ **Languages** | English · Bahasa Indonesia |
-| 🎓 **Background** | Tourism Management → Self-Taught AI/ML Engineering |
-| ⏱️ **Experience** | ~2 years, AI training data & evaluation |
-| 🎯 **Open to** | Remote AI/ML Engineer roles · AI Data Quality roles · Freelance RAG/LLM projects |
+| 🗣️ **Languages** | Bahasa Indonesia (Native) · English (Professional Working Proficiency) |
+| 🎓 **Education** | B.A. Travel & Tourism Business — AMPTA Yogyakarta Tourism College (GPA 3.46/4.00) |
+| ⏱️ **Experience** | 2+ years, AI quality evaluation, reviewer-level judgment across VLM/VQA & multilingual systems |
+| 🎯 **Open to** | Senior AI Quality Evaluator roles · AI/ML Engineer roles · Freelance RAG/LLM projects |
 
 </div>
 
@@ -170,18 +170,71 @@ An AI-powered career coaching platform for the Indonesian job market, with LLM-d
 
 <br/>
 
-**AI Data Annotation & Evaluation Specialist**
-<sub>Outlier · Appen · TELUS Digital · OpenTrain AI · micro1 · iMerit Scholars · Alignerr — 2023 to Present</sub>
+**AI Quality Reviewer** <sub>— Vision-Language Models</sub>
+<sub>🏢 Alignerr · Contract · Remote &nbsp;|&nbsp; 📅 Jun 2026 – Jul 2026</sub>
 
-Freelance/contract-based work across multiple leading AI training-data platforms, focused on improving model quality through rigorous human evaluation.
+- Work across both labeler and reviewer roles on large-scale VLM/VQA projects, giving first-hand insight into common failure patterns that sharpens review judgment
+- Evaluate image-question-answer pairs for visual grounding, reasoning quality, OCR accuracy, and factual correctness — issuing Approve/Reject decisions that directly gate training data
+- Build precedent-based false-negative reports to challenge incorrect AutoQA flags, applying resolutions consistently across reviewers to strengthen scalable QA processes
 
-- Multilingual (English/Bahasa Indonesia) evaluation and ranking of LLM outputs
-- Multimodal (image, audio, text) annotation and VQA labeling, including FineVision dataset work
-- OCR verification and image-text alignment quality checks
-- AutoQA issue response and annotation guideline compliance review
-- Content moderation and QA across annotation pipelines
+<br/>
 
-<img src="https://img.shields.io/badge/RLHF-C15F3C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Multimodal%20Annotation-B1ADA1?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/LLM%20Evaluation-C15F3C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/OCR%20QA-B1ADA1?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Bahasa%20Indonesia%20NLP-C15F3C?style=flat-square" height="20"/>
+**Consultant** <sub>— Evaluation & Quality Frameworks</sub>
+<sub>🏢 iMerit Scholars · Contract · Remote &nbsp;|&nbsp; 📅 Dec 2025 – Jul 2026</sub>
+
+- Act as an embedded quality consultant, judging AI-generated outputs against structured evaluation frameworks for response accuracy, reasoning quality, instruction-following, and cultural appropriateness in Bahasa Indonesia contexts
+- Diagnose systemic annotation inconsistencies and model weaknesses across multimodal (text, image, document) datasets, translating findings into structured feedback for model optimization
+- Advise distributed international teams on quality standards and calibration practices across AI training pipelines
+
+<br/>
+
+**AI Trainer Expert** <sub>— Native Language (Bahasa Indonesia)</sub>
+<sub>🏢 micro1 · Contract · Remote &nbsp;|&nbsp; 📅 Oct 2025 – Jan 2026</sub>
+
+- Served in a dual Trainer/Reviewer capacity — both producing and evaluating AI-generated Bahasa Indonesia content for linguistic quality, factual accuracy, and cultural relevance
+- Reviewed peer-submitted evaluations for grammar, syntax, fluency, and semantic accuracy, catching hallucinations and safety concerns missed in first-pass review
+- Validated datasets and audited annotation quality against evaluation frameworks to ensure rating consistency
+
+<br/>
+
+**AI Data Annotation Specialist**
+<sub>🏢 TELUS Digital AI Data Solutions · Contract · Remote &nbsp;|&nbsp; 📅 Sep 2025 – Oct 2025</sub>
+
+- Evaluated and validated multimodal datasets (text, image, document) against quality standards for accuracy and contextual relevance
+- Identified labeling inconsistencies, annotation errors, and potential sources of model bias in collaboration with international teams
+- Delivered structured feedback supporting NLP, computer vision, and generative AI model improvement efforts
+
+<br/>
+
+**Freelance Data Annotation & Evaluation**
+<sub>Real-time Image Audit · Translation & Localization · Search & Content Evaluation · OCR Digitization &nbsp;|&nbsp; 📅 Feb 2025 – Oct 2025</sub>
+
+- Audited and classified user-generated visual content in real time for policy compliance and content safety
+- Evaluated English–Bahasa Indonesia machine translation for linguistic quality and cultural appropriateness
+- Annotated and validated Indonesian-language OCR documents via bounding-box labeling and text transcription
+
+<br/>
+
+**Multi-Turn AI Chat Evaluator**
+<sub>🏢 OpenTrain AI · Contract · Remote &nbsp;|&nbsp; 📅 Jun 2025 – Sep 2025</sub>
+
+- Evaluated multi-turn Bahasa Indonesia AI conversations for response accuracy, contextual retention, and reasoning quality
+- Assessed tone, empathy, and cultural appropriateness across informational, instructional, and sensitive interactions
+- Identified hallucinations and factual inconsistencies, delivering feedback that improved conversational reliability
+
+<br/>
+
+**AI Trainer**
+<sub>🏢 Outlier · Contract · Indonesia (Remote) &nbsp;|&nbsp; 📅 Apr 2024 – Mar 2025</sub>
+
+- Evaluated AI-generated multi-turn Bahasa Indonesia conversations for accuracy, contextual retention, and fluency
+- Assessed grammar, readability, tone, and cultural relevance across extended conversations
+- Identified hallucinations, safety concerns, and policy violations, supporting LLM optimization
+
+<br/>
+
+<img src="https://img.shields.io/badge/Reviewer--Level%20Judgment-C15F3C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/VQA%20%2F%20VLM%20Evaluation-B1ADA1?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Quality%20Framework%20Design-C15F3C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/AutoQA%20Resolution-B1ADA1?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Bahasa%20Indonesia%20NLP-C15F3C?style=flat-square" height="20"/> <img src="https://img.shields.io/badge/Localization%20QA-B1ADA1?style=flat-square" height="20"/>
+
 
 <br/>
 
