@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b1ada1,50:c15f3c,100:b1ada1&height=220&section=header&text=Fachrurrozi%20Rosyadi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20%26%20Evaluation%20Specialist&descAlignY=58&descSize=18" />
+# Fachrurrozi Rosyadi
+### AI Engineer · Data & Evaluation Specialist
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C15F3C&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;RAG+Systems+%7C+LLM+Evaluation+%7C+Full-Stack;From+AI+Data+Annotation+to+AI+Engineering;Building+Enterprise-Grade+AI+Assistants" alt="Typing SVG" />
@@ -224,7 +225,12 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiink147&layout=compact&hide_border=true&bg_color=F4F3EE&title_color=C15F3C&text_color=B1ADA1&border_color=B1ADA1" />
+| Language | Usage |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-C15F3C?style=flat-square&logo=python&logoColor=white) | Primary |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-B1ADA1?style=flat-square&logo=typescript&logoColor=white) | Frontend |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-C15F3C?style=flat-square&logo=javascript&logoColor=white) | Frontend |
+| ![Bash](https://img.shields.io/badge/Bash-B1ADA1?style=flat-square&logo=gnubash&logoColor=white) | Tooling |
 
 </div>
 
@@ -236,7 +242,9 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jiink147&no-frame=true&no-bg=true&margin-w=10&row=1&column=6&theme=flat&title=Commits,Followers,Stars,Repositories,Issues,PullRequest" />
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jiink147&label=Repositories&query=$.public_repos&color=C15F3C&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/jiink147?label=Followers&style=for-the-badge&color=B1ADA1)
+![Stars](https://img.shields.io/github/stars/jiink147?label=Stars&style=for-the-badge&color=C15F3C)
 
 </div>
 
@@ -313,6 +321,6 @@ open_to:
 
 *"From evaluating intelligence to engineering it."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b1ada1,50:c15f3c,100:b1ada1&height=120&section=footer" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
