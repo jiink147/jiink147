@@ -177,52 +177,9 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 
 ---
 
-## 📜 Certifications
-
-> _Add your certification badges below as you complete them._
-
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/AWS-Add%20Certification-C15F3C?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/Oracle-Add%20Certification-C15F3C?style=flat-square&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-B1ADA1?style=flat-square"/>
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/Cisco-Add%20Certification-B1ADA1?style=flat-square&logo=cisco&logoColor=white"/>
-
-<br/>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-Add%20Profile-C15F3C?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-B1ADA1?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-Add%20Profile-C15F3C?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-Add%20Profile-B1ADA1?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiink147&show_icons=true&hide_border=true&bg_color=F4F3EE&title_color=C15F3C&icon_color=C15F3C&text_color=B1ADA1&border_color=B1ADA1" />
-
-<br/>
 
 | Language | Usage |
 |---|---|
@@ -230,20 +187,6 @@ Freelance/contract-based work across multiple leading AI training-data platforms
 | ![TypeScript](https://img.shields.io/badge/TypeScript-B1ADA1?style=flat-square&logo=typescript&logoColor=white) | Frontend |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-C15F3C?style=flat-square&logo=javascript&logoColor=white) | Frontend |
 | ![Bash](https://img.shields.io/badge/Bash-B1ADA1?style=flat-square&logo=gnubash&logoColor=white) | Tooling |
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/jiink147&label=Repositories&query=$.public_repos&color=C15F3C&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/jiink147?label=Followers&style=for-the-badge&color=B1ADA1)
-![Stars](https://img.shields.io/github/stars/jiink147?label=Stars&style=for-the-badge&color=C15F3C)
 
 </div>
 
